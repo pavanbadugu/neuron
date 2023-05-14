@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: in.coderpro.neuron
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [ annotation-api, app-name, flyway, gradle, http-client, jackson-databind, jdbc-hikari, kotest, kotlin, kotlin-application, kotlin-build, kotlin-extension-functions, micronaut-build, mysql, netty-server, readme, serialization-jackson, shade, slf4j-simple, test-resources, yaml ]
